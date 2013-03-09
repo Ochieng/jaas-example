@@ -9,6 +9,9 @@ import javax.servlet.http.HttpServletResponse;
 import javax.sql.DataSource;
 import java.io.IOException;
 
+/**
+ * User: albiere
+ */
 @WebServlet("/admin/users")
 public class AdminUsersServlet extends HttpServlet {
 	
